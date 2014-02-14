@@ -1,6 +1,4 @@
 ndeakin.github.io
 =================
 
-A personal site to showcase my programming experience.
-
-More to come in the future as the site is created!
+This is repository for my github account page, if I ever decide to actually make the content.
